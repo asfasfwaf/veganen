@@ -1,0 +1,13 @@
+HTTrack3.49-1+htsswf+htsjava launched on Sun, 12 Jan 2025 01:42:53 at https://web.archive.org/web/20130530032451/http://www.nplay.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://web.archive.org/web/20130530032451/http://www.nplay.com/ -O1 "C:\Users\Javi\Desktop\paginaweb\prueba" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+01:43:22	Warning: 	FOUND for https://web.archive.org/web/20130530032451/http://www.nplay.com/BeGone/
+01:43:22	Warning: 	File has moved from https://web.archive.org/web/20130530032451/http://www.nplay.com/BeGone/ to https://web.archive.org/web/20130620090849/http://www.nplay.com/BeGone
+
+HTTrack Website Copier/3.49-1 mirror complete in 29 seconds : 43 links scanned, 41 files written (2387311 bytes overall) [2112029 bytes received at 72828 bytes/sec], 562655 bytes transferred using HTTP compression in 8 files, ratio 29%, 17.0 requests per connection
+(No errors, 2 warnings, 0 messages)
